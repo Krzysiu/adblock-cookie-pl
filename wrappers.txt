@@ -1,0 +1,5 @@
+legeo.pl##.paywall
+polityka.pl###fancybox-overlay
+polityka.pl###fancybox-wrap
+spryciarze.pl###lightbox_inspiracje
+spryciarze.pl###lightbox_inspiracje_bg
