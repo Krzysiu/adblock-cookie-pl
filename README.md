@@ -4,7 +4,7 @@ Adblock list, mostly for Polish users, that blocks cookie notices (required by E
 
 Using and hotlinking
 --------------------
-Please **don't use this list directly from Github**. Proper version (cached and with headers) can be found at http://krzysiu.net/lista_XXX_TODO
+Please **don't use this list directly from Github**. Proper version (cached and with headers) can be found at https://rawgit.com/Krzysiu/adblock-cookie-pl/master/wrappers.txt
 
 Files
 -----
