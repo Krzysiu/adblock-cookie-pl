@@ -4,12 +4,16 @@ Adblock list, mostly for Polish users, that blocks cookie notices (required by E
 
 Using and hotlinking
 --------------------
-Please **don't use this list directly from Github**. Proper version (cached and with headers) can be found at http://krzysiu.net/lista_XXX_TODO
+Please **don't use this list directly from Github**. Proper version (cached and with headers) can be found at:
+* http://mini.krzysiu.net/adblockList/list/general
+* http://mini.krzysiu.net/adblockList/list/wrappers
+* http://mini.krzysiu.net/adblockList/list/events
 
 Files
 -----
-* **cookies.txt** - all cookie notices, including wrappers with cookie notices
-* **wrappers.txt** - other wrappers, like login invitation
+* **general.txt** - general adverts
+* **wrappers.txt** - wrappers ("curtains"), like login invitation
+* **events** - scripts tracking or creating popups after some action, like click
 
 Licensing
 ---------
